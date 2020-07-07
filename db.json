@@ -1,0 +1,249 @@
+{
+  "creativeRequirements": [
+    {
+      "id": 1,
+      "adType": "static",
+      "adSubType": "range",
+      "placements": [
+        "facebook",
+        "instagram",
+        "auditNetwork",
+        "messenger"
+      ],
+      "ageGroups": [
+        "50-64"
+      ],
+      "targetCities": [
+        "city-4"
+      ],
+      "interests": [
+        "interest-1",
+        "interest-3"
+      ],
+      "postDescription": "bjgu",
+      "overAllConcept": "gigi",
+      "reference": ""
+    },
+    {
+      "id": 2,
+      "adType": "static",
+      "adSubType": "features",
+      "placements": [
+        "facebook",
+        "instagram",
+        "auditNetwork",
+        "messenger"
+      ],
+      "ageGroups": [],
+      "targetCities": [],
+      "interests": [],
+      "postDescription": "",
+      "overAllConcept": "",
+      "reference": ""
+    },
+    {
+      "id": 3,
+      "adType": "static",
+      "adSubType": "range",
+      "placements": [
+        "facebook",
+        "instagram",
+        "auditNetwork",
+        "messenger"
+      ],
+      "ageGroups": [
+        "24-60"
+      ],
+      "targetCities": [
+        "city-6"
+      ],
+      "interests": [
+        "interest-4"
+      ],
+      "postDescription": "",
+      "overAllConcept": "",
+      "reference": ""
+    }
+  ],
+  "adCards": [
+    {
+      "adId": 1,
+      "heading": "Heading",
+      "image": "Image",
+      "description": "Description",
+      "imageSpecifications": null,
+      "headingSpecifications": {
+        "titleSpecifications": "gihi"
+      },
+      "descriptionSpecifications": null,
+      "link": "Link",
+      "id": 1
+    },
+    {
+      "adId": 1,
+      "heading": "Heading",
+      "image": "Image",
+      "description": "Description",
+      "imageSpecifications": null,
+      "headingSpecifications": null,
+      "descriptionSpecifications": null,
+      "link": "Link",
+      "id": 2
+    },
+    {
+      "adId": 2,
+      "heading": "Heading",
+      "image": "Image",
+      "description": "Description",
+      "imageSpecifications": null,
+      "headingSpecifications": null,
+      "descriptionSpecifications": null,
+      "link": "Link",
+      "id": 3
+    },
+    {
+      "adId": 2,
+      "heading": "Heading",
+      "image": "Image",
+      "description": "Description",
+      "imageSpecifications": null,
+      "headingSpecifications": null,
+      "descriptionSpecifications": null,
+      "link": "Link",
+      "id": 4
+    },
+    {
+      "adId": 3,
+      "heading": "Heading",
+      "image": "Image",
+      "description": "Description",
+      "imageSpecifications": {
+        "brief": "nfkdsjf",
+        "reference": "fjfh ",
+        "otherSpecifications": "hgush uf"
+      },
+      "headingSpecifications": null,
+      "descriptionSpecifications": {
+        "brief": "casc",
+        "reference": "cas",
+        "otherSpecifications": "cas"
+      },
+      "link": "Link",
+      "id": 5
+    },
+    {
+      "adId": 3,
+      "heading": "Heading",
+      "image": "Image",
+      "description": "Description",
+      "imageSpecifications": {
+        "brief": "nfkdsjf",
+        "reference": "fjfh ",
+        "otherSpecifications": "hgush uf"
+      },
+      "headingSpecifications": {
+        "brief": "",
+        "reference": "",
+        "otherSpecifications": ""
+      },
+      "descriptionSpecifications": {
+        "brief": "casc",
+        "reference": "cas",
+        "otherSpecifications": "cas"
+      },
+      "link": "Link",
+      "id": 6
+    }
+  ],
+  "ageGroups": [
+    {
+      "id": 1,
+      "label": "18-29",
+      "value": "18-29"
+    },
+    {
+      "id": 2,
+      "label": "30-49",
+      "value": "30-49"
+    },
+    {
+      "id": 3,
+      "label": "50-64",
+      "value": "50-64"
+    },
+    {
+      "id": 4,
+      "label": "65+",
+      "value": "65+"
+    },
+    {
+      "label": "24-60",
+      "value": "24-60",
+      "id": 5
+    },
+    {
+      "label": "30+",
+      "value": "30",
+      "id": 6
+    }
+  ],
+  "targetCities": [
+    {
+      "id": 1,
+      "label": "City 1",
+      "value": "city-1"
+    },
+    {
+      "id": 2,
+      "label": "City 2",
+      "value": "city-2"
+    },
+    {
+      "id": 3,
+      "label": "City 3",
+      "value": "city-3"
+    },
+    {
+      "id": 4,
+      "label": "City 4",
+      "value": "city-4"
+    },
+    {
+      "label": "City 6",
+      "value": "city-6",
+      "id": 5
+    },
+    {
+      "label": "City 9",
+      "value": "city-9",
+      "id": 6
+    }
+  ],
+  "interests": [
+    {
+      "id": 1,
+      "label": "Interest 1",
+      "value": "interest-1"
+    },
+    {
+      "id": 2,
+      "label": "Interest 2",
+      "value": "interest-2"
+    },
+    {
+      "id": 3,
+      "label": "Interest 3",
+      "value": "interest-3"
+    },
+    {
+      "id": 4,
+      "label": "Interest 4",
+      "value": "interest-4"
+    },
+    {
+      "label": "Interest 5",
+      "value": "interest-5",
+      "id": 5
+    }
+  ]
+}
